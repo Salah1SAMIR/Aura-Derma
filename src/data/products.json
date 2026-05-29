@@ -1,0 +1,303 @@
+[
+  {
+    "id": "p1",
+    "name": "Hyaluronic Hydration Serum",
+    "tagline": "Intense cellular rehydration & plumping formulation",
+    "price": 75,
+    "rating": 4.9,
+    "reviewsCount": 128,
+    "category": "Serums",
+    "keyIngredients": ["Multi-weight Hyaluronic Acid", "Pro-Vitamin B5", "Red Algae Extract"],
+    "skinTypes": ["dry", "normal", "sensitive", "oily", "combination"],
+    "concerns": ["hydration", "aging"],
+    "description": "An ultra-pure hydrating serum combining three weights of hyaluronic acid to penetrate multiple layers of the dermis, locking in moisture and delivering an instant visible plumping effect.",
+    "usage": "Apply 3-4 drops to clean, damp skin morning and night. Follow with your preferred moisturizer.",
+    "clinicalTrials": {
+      "satisfaction": 98,
+      "trialPeriod": "4 weeks",
+      "results": ["98% noticed increased skin hydration.", "92% reported reduced fine lines.", "95% felt a firmer, plumper texture."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p2",
+    "name": "Retinol Recovery Night Cream",
+    "tagline": "Advanced cell renewal & collagen booster",
+    "price": 95,
+    "rating": 4.8,
+    "reviewsCount": 94,
+    "category": "Creams",
+    "keyIngredients": ["1.2% Encapsulated Retinol", "Ceramide NP", "Bakuchiol Extract"],
+    "skinTypes": ["normal", "combination", "oily"],
+    "concerns": ["aging", "acne"],
+    "description": "A high-performance night moisturizer designed to accelerate skin turnover, smooth fine lines, and even tone. Encapsulated technology ensures slow release to minimize irritation.",
+    "usage": "Massage a dime-sized amount into clean face and neck in the evening. Introduce gradually (2-3 times a week initially). Use sunscreen during the day.",
+    "clinicalTrials": {
+      "satisfaction": 94,
+      "trialPeriod": "8 weeks",
+      "results": ["94% showed improved skin elasticity.", "89% noticed reduced dark spots and pigmentation.", "91% reported smooth, refined skin texture."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1617897903246-719242758050?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p3",
+    "name": "Vitamin C Illuminating Gel",
+    "tagline": "Potent antioxidant defense & hyperpigmentation corrector",
+    "price": 82,
+    "rating": 4.7,
+    "reviewsCount": 112,
+    "category": "Serums",
+    "keyIngredients": ["15% L-Ascorbic Acid", "Ferulic Acid", "Kakadu Plum Extract"],
+    "skinTypes": ["dry", "normal", "combination", "oily"],
+    "concerns": ["pigmentation", "hydration"],
+    "description": "A daily brightening treatment formulated to neutralize environmental free radicals, correct hyperpigmentation, and stimulate collage synthesis for radiant, glowing skin.",
+    "usage": "Apply 2-3 drops to dry, clean skin every morning. Gently press into face and neck before moisturizer and SPF.",
+    "clinicalTrials": {
+      "satisfaction": 96,
+      "trialPeriod": "6 weeks",
+      "results": ["96% reported a brighter, more radiant complexion.", "88% noticed a visible reduction in dark spots.", "93% felt skin felt protected and revitalized."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p4",
+    "name": "Ceramide Barrier Defense Balm",
+    "tagline": "Skin barrier restoration & deep calming remedy",
+    "price": 64,
+    "rating": 4.9,
+    "reviewsCount": 86,
+    "category": "Creams",
+    "keyIngredients": ["3x Essential Ceramides", "Centella Asiatica (Cica)", "Colloidal Oatmeal"],
+    "skinTypes": ["dry", "sensitive", "normal"],
+    "concerns": ["sensitive", "hydration"],
+    "description": "A comforting cream that cocoons compromised skin. Specially formulated to restore the natural moisture barrier, instantly soothe redness, and protect against dry environments.",
+    "usage": "Apply a generous layer to face, neck, or localized dry areas. Can be used morning and evening as needed.",
+    "clinicalTrials": {
+      "satisfaction": 99,
+      "trialPeriod": "2 weeks",
+      "results": ["99% reported immediate relief from redness and irritation.", "97% felt their skin barrier felt stronger and restored.", "95% noticed long-lasting softness and moisture retention."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1612817288484-6f916006741a?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p5",
+    "name": "Salicylic Clarifying Exfoliator",
+    "tagline": "Unclogs pores, reduces acne, and smooths skin structure",
+    "price": 58,
+    "rating": 4.6,
+    "reviewsCount": 73,
+    "category": "Cleansers",
+    "keyIngredients": ["2% Salicylic Acid (BHA)", "Niacinamide", "Licorice Root Extract"],
+    "skinTypes": ["oily", "combination"],
+    "concerns": ["acne"],
+    "description": "A liquid exfoliant that penetrates deep into pores to dissolve oil build-up, blackheads, and dead skin cells. Infused with Niacinamide to soothe breakouts and prevent post-acne marks.",
+    "usage": "Saturate a reusable cotton pad and gently sweep over clean face. Avoid eye contour. Use 2-4 times a week, preferably at night.",
+    "clinicalTrials": {
+      "satisfaction": 91,
+      "trialPeriod": "4 weeks",
+      "results": ["91% noticed fewer breakouts and blemishes.", "87% reported visible reduction in pore size.", "90% felt their skin texture was smoother."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p6",
+    "name": "Squalane & Rosehip Glow Oil",
+    "tagline": "Luxurious nourishing oil for a velvety, dewy finish",
+    "price": 68,
+    "rating": 4.9,
+    "reviewsCount": 54,
+    "category": "Serums",
+    "keyIngredients": ["100% Plant-Derived Squalane", "Cold-Pressed Rosehip Seed Oil", "Vitamin E"],
+    "skinTypes": ["dry", "sensitive", "normal"],
+    "concerns": ["hydration", "aging"],
+    "description": "A lightweight facial oil that mimics skin's natural lipids to deeply nourish, repair environmental damage, and impart a healthy, non-greasy glow to dry or mature complexions.",
+    "usage": "Warm 2-3 drops in the palms of your hands and press gently onto clean face and neck as the final step in your evening routine.",
+    "clinicalTrials": {
+      "satisfaction": 97,
+      "trialPeriod": "3 weeks",
+      "results": ["97% reported a hydrated, dewy glow without feeling greasy.", "92% felt skin felt deeply nourished and restored.", "94% noticed a smoother appearance in fine lines."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p7",
+    "name": "Niacinamide Pore Refinement Serum",
+    "tagline": "Advanced 10% Niacinamide & Zinc PCA sebum balancer",
+    "price": 72,
+    "rating": 4.8,
+    "reviewsCount": 64,
+    "category": "Serums",
+    "keyIngredients": ["10% Niacinamide", "1% Zinc PCA", "Allantoin"],
+    "skinTypes": ["oily", "combination", "sensitive", "normal"],
+    "concerns": ["acne", "pigmentation"],
+    "description": "A concentrated active serum designed to visibly refine enlarged pores, regulate sebum production, soothe redness, and improve skin texture irregularities.",
+    "usage": "Apply 2-3 drops to clean skin in the morning and evening before applying heavier creams.",
+    "clinicalTrials": {
+      "satisfaction": 95,
+      "trialPeriod": "4 weeks",
+      "results": ["95% reported more balanced sebum production.", "90% observed visible tightening of enlarged pores.", "92% noticed improved skin clarity and reduced redness."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p8",
+    "name": "Peptide Wrinkle-Defense Moisturizer",
+    "tagline": "Multi-peptide complex & copper tripeptide age corrector",
+    "price": 110,
+    "rating": 4.9,
+    "reviewsCount": 48,
+    "category": "Creams",
+    "keyIngredients": ["Multi-Peptide Complex", "Copper Tripeptide-1", "Phyto-Squalane"],
+    "skinTypes": ["dry", "normal", "combination", "aging"],
+    "concerns": ["aging"],
+    "description": "A luxurious wrinkle-defying cream formulated with a dense matrix of peptides to trigger collagen production, improve firmness, and smooth the appearance of deep expression lines.",
+    "usage": "Smooth a small amount over cleansed face and neck in the morning and evening, massaging gently in upward motions.",
+    "clinicalTrials": {
+      "satisfaction": 97,
+      "trialPeriod": "6 weeks",
+      "results": ["97% reported firmer, more resilient skin.", "93% noticed a reduction in the depth of expression lines.", "96% felt their skin density and plumpness was restored."]
+    },
+    "imageUrl": "images/peptide-moisturizer.png"
+  },
+  {
+    "id": "p9",
+    "name": "Amino Acid Hydra-Gel Cleanser",
+    "tagline": "Ultra-gentle moisture-rich cleansing without barrier disruption",
+    "price": 45,
+    "rating": 4.7,
+    "reviewsCount": 98,
+    "category": "Cleansers",
+    "keyIngredients": ["Amino Acid Surfactants", "Panthenol", "Green Tea Extract"],
+    "skinTypes": ["sensitive", "dry", "normal", "combination", "oily"],
+    "concerns": ["hydration", "sensitive"],
+    "description": "A pH-balanced, non-foaming hydrating gel cleanser that dissolves impurities, excess oil, and light makeup while preserving the skin's essential moisture barrier.",
+    "usage": "Massage a small amount onto damp skin using circular motions. Rinse thoroughly with lukewarm water. Use morning and night.",
+    "clinicalTrials": {
+      "satisfaction": 98,
+      "trialPeriod": "2 weeks",
+      "results": ["98% agreed that it cleansed effectively without drying skin.", "94% felt their skin was immediately calmed and hydrated.", "96% noted no stripping or tightness post-rinse."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p10",
+    "name": "Cica Soothing Relief Cream",
+    "tagline": "Calming barrier support for hyper-reactive & stressed skin",
+    "price": 68,
+    "rating": 4.9,
+    "reviewsCount": 79,
+    "category": "Creams",
+    "keyIngredients": ["Centella Asiatica (Cica)", "Madecassoside", "Beta-Glucan"],
+    "skinTypes": ["sensitive", "dry", "combination", "normal"],
+    "concerns": ["sensitive", "hydration"],
+    "description": "An intensive soothing cream developed for highly sensitive, post-procedure, or environmental-stressed skin. Accelerates barrier recovery and instantly diminishes irritation.",
+    "usage": "Apply evenly to clean skin. Gently pat to promote absorption. Apply a thick layer to highly sensitive zones.",
+    "clinicalTrials": {
+      "satisfaction": 99,
+      "trialPeriod": "1 week",
+      "results": ["99% reported instant soothing of skin redness.", "96% noticed faster recovery from irritation.", "98% experienced a significant decrease in skin reactivity."]
+    },
+    "imageUrl": "images/cica-soothing-cream.png"
+  },
+  {
+    "id": "p11",
+    "name": "Resveratrol Antioxidant Glow Serum",
+    "tagline": "Triple antioxidant defense against environmental stressors",
+    "price": 88,
+    "rating": 4.8,
+    "reviewsCount": 56,
+    "category": "Serums",
+    "keyIngredients": ["3% Resveratrol", "Ferulic Acid", "Superoxide Dismutase"],
+    "skinTypes": ["normal", "dry", "combination", "oily"],
+    "concerns": ["aging", "pigmentation"],
+    "description": "A high-potency antioxidant serum formulated to combat signs of premature aging caused by pollution, UV radiation, and daily environmental aggressors, while boosting skin luminosity.",
+    "usage": "Apply 2-3 drops to clean, dry skin in the morning. Follow with moisturizer and broad-spectrum sunscreen.",
+    "clinicalTrials": {
+      "satisfaction": 94,
+      "trialPeriod": "4 weeks",
+      "results": ["94% noticed a highly radiant and brighter skin tone.", "89% felt skin was firmer and better protected.", "91% reported diminished appearance of fatigue and dullness."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1576426863848-c21f53c60b19?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p12",
+    "name": "Clarifying Clay Mask & Cleanser",
+    "tagline": "Deep pore detoxifying kaolin clay & bentonite treatment",
+    "price": 52,
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "category": "Cleansers",
+    "keyIngredients": ["Kaolin Clay", "Bentonite Clay", "Salicylic Acid (BHA)"],
+    "skinTypes": ["oily", "combination"],
+    "concerns": ["acne", "sensitive"],
+    "description": "A dual-action detoxifying treatment that can be used as a daily deep cleanser or a weekly 5-minute mask. Purifies pores, absorbs excess oil, and leaves skin smooth and clear.",
+    "usage": "As a cleanser: Massage onto damp skin and rinse. As a mask: Apply a thin layer, let dry for 5 minutes, then rinse thoroughly. Use 2-3 times a week.",
+    "clinicalTrials": {
+      "satisfaction": 94,
+      "trialPeriod": "3 weeks",
+      "results": ["94% noted less oily skin throughout the day.", "89% reported a visible reduction in blackheads.", "92% felt skin was deeply cleansed and clarified."]
+    },
+    "imageUrl": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "p13",
+    "name": "Bakuchiol Retinol-Alternative Elixir",
+    "tagline": "Plant-derived gentle age-defying & skin-smoothing complex",
+    "price": 86,
+    "rating": 4.9,
+    "reviewsCount": 38,
+    "category": "Serums",
+    "keyIngredients": ["2% Pure Bakuchiol", "Rosehip Seed Oil", "Squalane"],
+    "skinTypes": ["sensitive", "dry", "normal", "combination", "oily"],
+    "concerns": ["aging", "sensitive"],
+    "description": "A gentle, plant-derived retinol alternative that delivers all the anti-aging benefits of traditional retinol—reducing the look of fine lines, wrinkles, and uneven skin tone—without any of the sensitivity or irritation.",
+    "usage": "Apply 3-4 drops to clean skin in the evening. Follow with your favorite moisturizer.",
+    "clinicalTrials": {
+      "satisfaction": 96,
+      "trialPeriod": "6 weeks",
+      "results": ["96% reported no irritation or redness.", "91% noticed smoother and more refined skin texture.", "88% observed a visible reduction in fine lines."]
+    },
+    "imageUrl": "images/bakuchiol-elixir.png"
+  },
+  {
+    "id": "p14",
+    "name": "Probiotic Skin-Barrier Restoring Cream",
+    "tagline": "Microbiome support & probiotic-infused balancing moisturizer",
+    "price": 78,
+    "rating": 4.8,
+    "reviewsCount": 45,
+    "category": "Creams",
+    "keyIngredients": ["Lactobacillus Ferment Lysate", "Squalane", "Beta-Glucan"],
+    "skinTypes": ["sensitive", "dry", "normal", "combination", "oily"],
+    "concerns": ["hydration", "sensitive"],
+    "description": "A silky cream formulated with concentrated probiotics to reinforce the skin microbiome, reduce redness, and lock in moisture for a strong, calm, and healthy-looking complexion.",
+    "usage": "Massage a small amount onto clean, dry face and neck morning and night.",
+    "clinicalTrials": {
+      "satisfaction": 95,
+      "trialPeriod": "3 weeks",
+      "results": ["95% reported smoother and softer skin texture.", "91% felt their skin barrier was more resilient.", "93% experienced a reduction in redness and sensitivity."]
+    },
+    "imageUrl": "images/probiotic-cream.png"
+  },
+  {
+    "id": "p15",
+    "name": "Vitamin E & Ginseng Energy Cream",
+    "tagline": "Revitalizing botanical infusion for tired & dull complexions",
+    "price": 84,
+    "rating": 4.7,
+    "reviewsCount": 39,
+    "category": "Creams",
+    "keyIngredients": ["Korean Red Ginseng Extract", "Pure Vitamin E", "Coenzyme Q10"],
+    "skinTypes": ["dry", "normal", "combination", "aging"],
+    "concerns": ["aging", "hydration"],
+    "description": "A rich, energizing cream designed to revitalize fatigued, dry, or dull skin. Powered by potent Red Ginseng to boost cellular vitality and natural Vitamin E for intense nourishment.",
+    "usage": "Warm a pea-sized amount between fingertips and press gently into clean skin morning and evening.",
+    "clinicalTrials": {
+      "satisfaction": 93,
+      "trialPeriod": "4 weeks",
+      "results": ["93% noticed a healthier, more vibrant skin glow.", "89% reported improved skin plumpness and elasticity.", "91% felt skin was deeply revitalized and nourished."]
+    },
+    "imageUrl": "images/vitamin-e-ginseng-cream.png"
+  }
+]
+

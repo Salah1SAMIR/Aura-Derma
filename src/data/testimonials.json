@@ -1,0 +1,29 @@
+[
+  {
+    "id": "t1",
+    "name": "Sarah Jenkins",
+    "role": "Loyal Customer",
+    "text": "The Hyaluronic Hydration Serum completely transformed my skin texture. After years of struggling with dryness and flaky patches, my face feels incredibly plump, smooth, and glowing 24/7.",
+    "rating": 5,
+    "verified": true,
+    "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": "t2",
+    "name": "Dr. Evelyn Vance, MD",
+    "role": "Board Certified Dermatologist",
+    "text": "I recommend Aura Derma's Retinol Night Cream to my patients. The encapsulated formula releases retinol slowly overnight, which minimizes dryness and typical retinoid irritation while yielding superb anti-aging results.",
+    "rating": 5,
+    "verified": true,
+    "avatarUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&w=150&h=150&q=80"
+  },
+  {
+    "id": "t3",
+    "name": "Marcus K.",
+    "role": "Skin Treatment Client",
+    "text": "The Clarifying Clinical Peel facial at the clinic was a lifesaver. My persistent acne breakouts calmed down within 48 hours, and my post-acne dark marks have faded significantly.",
+    "rating": 5,
+    "verified": true,
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80"
+  }
+]

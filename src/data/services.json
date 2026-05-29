@@ -1,0 +1,43 @@
+﻿[
+  {
+    "id": "s1",
+    "name": "HydraFacial Signature Luxe",
+    "price": 175,
+    "duration": "60 mins",
+    "description": "An award-winning multi-step treatment that cleanses, evenly exfoliates, and extracts impurities while simultaneously infusing skin with nourishing peptides, antioxidants, and hyaluronic acid.",
+    "benefits": ["Deep pore extraction", "Instant hydration boost", "Zero downtime, immediate glow"],
+    "targetConcern": "hydration",
+    "imageUrl": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "s2",
+    "name": "Medical Microneedling (Dermapen)",
+    "price": 250,
+    "duration": "75 mins",
+    "description": "A medically graded collagen induction therapy that utilizes sterile micro-needles to stimulate cellular renewal. Restores elasticity, minimizes acne scars, and smooths wrinkles.",
+    "benefits": ["Stimulates natural collagen", "Fades acne scarring & spots", "Refines deep wrinkles"],
+    "targetConcern": "aging",
+    "imageUrl": "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "s3",
+    "name": "Fractional Laser Resurfacing",
+    "price": 350,
+    "duration": "90 mins",
+    "description": "An advanced laser treatment targeting superficial layers to vaporize damaged skin cells. Promotes powerful tissue remodeling, curing severe texture issues and uneven hyperpigmentation.",
+    "benefits": ["Removes sun-damaged layers", "Tightens sagging tissue", "Targets stubborn dark spots"],
+    "targetConcern": "pigmentation",
+    "imageUrl": "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": "s4",
+    "name": "Clarifying Clinical Peel",
+    "price": 140,
+    "duration": "45 mins",
+    "description": "A medical-grade salicylic and glycolic acid peel specifically designed to regulate sebum production, dissolve deep blackheads, and calm active inflammatory acne.",
+    "benefits": ["Controls excess sebum", "Calms active acne breakouts", "Exfoliates clogged pores"],
+    "targetConcern": "acne",
+    "imageUrl": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=600&q=80"
+  }
+]
+
